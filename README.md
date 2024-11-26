@@ -23,7 +23,7 @@ Development Tools: Sublime Text, IntelliJ IDEA
 Our team collaborated to bring U-Challenge to life, with each member focusing on specific modules:
 
 Team Member	Responsibilities:
-Sports Trivia, Brain-Rot Trivia, Snake, Tic-Tac-Toe, Black-Jack (Blake) 
+Sports Trivia, Snake, Tic-Tac-Toe, Black-Jack (Blake) 
 STEM Trivia, Space Invader, Cookie-Clicker, Roulette (Menaal)
 Pop-Culture Trivia, Hangman, Higher or Lower, Leaderboards (Aliza)
-General Knowledge Trivia, History Trivia, Ping-Pong, Pac-Man (Evan)
+General Knowledge Trivia, History Trivia, Ping-Pong (Evan)
